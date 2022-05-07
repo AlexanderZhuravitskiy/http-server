@@ -1,0 +1,320 @@
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-1] INFO  Session  - Input is: GET / HTTP/1.1
+[Thread-1] INFO  Session  - Request method: GET
+[Thread-1] WARN  Session  - NOT FOUND
+[Thread-1] WARN  Session  - File: /not found, load
+[Thread-1] INFO  Session  - Connection closed
+[Thread-3] INFO  Session  - Input is: GET /favicon.ico HTTP/1.1
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] WARN  Session  - NOT FOUND
+[Thread-3] WARN  Session  - File: /favicon.iconot found, load
+[Thread-3] INFO  Session  - Connection closed
+[Thread-5] INFO  Session  - Input is: GET /1 HTTP/1.1
+[Thread-5] INFO  Session  - Request method: GET
+[Thread-5] WARN  Session  - NOT FOUND
+[Thread-5] WARN  Session  - File: /1not found, load
+[Thread-5] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: GET /hello HTTP/1.1
+[Thread-7] INFO  Session  - Request method: GET
+[Thread-7] WARN  Session  - NOT FOUND
+[Thread-7] WARN  Session  - File: /hellonot found, load
+[Thread-7] INFO  Session  - Connection closed
+[Thread-9] INFO  Session  - Input is: GET /hello HTTP/1.1
+[Thread-9] INFO  Session  - Request method: GET
+[Thread-9] WARN  Session  - NOT FOUND
+[Thread-9] WARN  Session  - File: /hellonot found, load
+[Thread-9] INFO  Session  - Connection closed
+[Thread-13] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-13] INFO  Session  - Request method: GET
+[Thread-13] WARN  Session  - NOT FOUND
+[Thread-13] WARN  Session  - File: /genanot found, load
+[Thread-13] INFO  Session  - Connection closed
+[Thread-15] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-15] INFO  Session  - Request method: GET
+[Thread-15] WARN  Session  - NOT FOUND
+[Thread-15] WARN  Session  - File: /genanot found, load
+[Thread-15] INFO  Session  - Connection closed
+[Thread-17] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-17] INFO  Session  - Request method: GET
+[Thread-17] WARN  Session  - NOT FOUND
+[Thread-17] WARN  Session  - File: /genanot found, load
+[Thread-17] INFO  Session  - Connection closed
+[Thread-19] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-19] INFO  Session  - Request method: GET
+[Thread-19] WARN  Session  - NOT FOUND
+[Thread-19] WARN  Session  - File: /genanot found, load
+[Thread-19] INFO  Session  - Connection closed
+[Thread-21] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-21] INFO  Session  - Request method: GET
+[Thread-21] WARN  Session  - NOT FOUND
+[Thread-21] WARN  Session  - File: /genanot found, load
+[Thread-21] INFO  Session  - Connection closed
+[Thread-23] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-23] INFO  Session  - Request method: GET
+[Thread-23] WARN  Session  - NOT FOUND
+[Thread-23] WARN  Session  - File: /genanot found, load
+[Thread-23] INFO  Session  - Connection closed
+[Thread-25] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-25] INFO  Session  - Request method: GET
+[Thread-25] WARN  Session  - NOT FOUND
+[Thread-25] WARN  Session  - File: /genanot found, load
+[Thread-25] INFO  Session  - Connection closed
+[Thread-27] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-27] INFO  Session  - Request method: GET
+[Thread-27] WARN  Session  - NOT FOUND
+[Thread-27] WARN  Session  - File: /genanot found, load
+[Thread-27] INFO  Session  - Connection closed
+[Thread-29] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-29] INFO  Session  - Request method: GET
+[Thread-29] WARN  Session  - NOT FOUND
+[Thread-29] WARN  Session  - File: /genanot found, load
+[Thread-29] INFO  Session  - Connection closed
+[Thread-31] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-31] INFO  Session  - Request method: GET
+[Thread-31] WARN  Session  - NOT FOUND
+[Thread-31] WARN  Session  - File: /genanot found, load
+[Thread-31] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-1] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-1] INFO  Session  - Request method: GET
+[Thread-1] WARN  Session  - NOT FOUND
+[Thread-1] WARN  Session  - File: /genanot found, load
+[Thread-1] INFO  Session  - Connection closed
+[Thread-3] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] WARN  Session  - NOT FOUND
+[Thread-3] WARN  Session  - File: /genanot found, load
+[Thread-3] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-1] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-1] INFO  Session  - Request method: GET
+[Thread-1] WARN  Session  - NOT FOUND
+[Thread-1] WARN  Session  - File: /genanot found, load
+[Thread-1] INFO  Session  - Connection closed
+[Thread-3] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] WARN  Session  - NOT FOUND
+[Thread-3] WARN  Session  - File: /genanot found, load
+[Thread-3] INFO  Session  - Connection closed
+[Thread-5] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-5] INFO  Session  - Request method: GET
+[Thread-5] WARN  Session  - NOT FOUND
+[Thread-5] WARN  Session  - File: /genanot found, load
+[Thread-5] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-7] INFO  Session  - Request method: GET
+[Thread-7] WARN  Session  - NOT FOUND
+[Thread-7] WARN  Session  - File: /genanot found, load
+[Thread-7] INFO  Session  - Connection closed
+[Thread-9] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-9] INFO  Session  - Request method: GET
+[Thread-9] WARN  Session  - NOT FOUND
+[Thread-9] WARN  Session  - File: /genanot found, load
+[Thread-9] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-11] INFO  Session  - Request method: GET
+[Thread-11] WARN  Session  - NOT FOUND
+[Thread-11] WARN  Session  - File: /genanot found, load
+[Thread-11] INFO  Session  - Connection closed
+[Thread-13] INFO  Session  - Input is: GET /gena HTTP/1.1
+[Thread-13] INFO  Session  - Request method: GET
+[Thread-13] WARN  Session  - NOT FOUND
+[Thread-13] WARN  Session  - File: /genanot found, load
+[Thread-13] INFO  Session  - Connection closed
+[Thread-15] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-15] INFO  Session  - Request method: GET
+[Thread-15] WARN  Session  - NOT FOUND
+[Thread-15] WARN  Session  - File: /indexnot found, load
+[Thread-15] INFO  Session  - Connection closed
+[Thread-17] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-17] INFO  Session  - Request method: GET
+[Thread-17] WARN  Session  - NOT FOUND
+[Thread-17] WARN  Session  - File: /indexnot found, load
+[Thread-17] INFO  Session  - Connection closed
+[Thread-19] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-19] INFO  Session  - Request method: GET
+[Thread-19] WARN  Session  - NOT FOUND
+[Thread-19] WARN  Session  - File: /indexnot found, load
+[Thread-19] INFO  Session  - Connection closed
+[Thread-21] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-21] INFO  Session  - Request method: GET
+[Thread-21] WARN  Session  - NOT FOUND
+[Thread-21] WARN  Session  - File: /indexnot found, load
+[Thread-21] INFO  Session  - Connection closed
+[Thread-23] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-23] INFO  Session  - Request method: GET
+[Thread-23] WARN  Session  - NOT FOUND
+[Thread-23] WARN  Session  - File: /indexnot found, load
+[Thread-23] INFO  Session  - Connection closed
+[Thread-25] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-25] INFO  Session  - Request method: GET
+[Thread-25] WARN  Session  - NOT FOUND
+[Thread-25] WARN  Session  - File: /indexnot found, load
+[Thread-25] INFO  Session  - Connection closed
+[Thread-29] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-29] INFO  Session  - Request method: GET
+[Thread-29] WARN  Session  - NOT FOUND
+[Thread-29] WARN  Session  - File: /indexnot found, load
+[Thread-29] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-1] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-1] INFO  Session  - Request method: GET
+[Thread-1] WARN  Session  - NOT FOUND
+[Thread-1] WARN  Session  - File: /indexnot found, load
+[Thread-1] INFO  Session  - Connection closed
+[Thread-5] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-5] INFO  Session  - Request method: GET
+[Thread-5] WARN  Session  - NOT FOUND
+[Thread-5] WARN  Session  - File: /indexnot found, load
+[Thread-5] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-7] INFO  Session  - Request method: GET
+[Thread-7] WARN  Session  - NOT FOUND
+[Thread-7] WARN  Session  - File: /indexnot found, load
+[Thread-7] INFO  Session  - Connection closed
+[Thread-9] INFO  Session  - Input is: GET /index HTTP/1.1
+[Thread-9] INFO  Session  - Request method: GET
+[Thread-9] WARN  Session  - NOT FOUND
+[Thread-9] WARN  Session  - File: /indexnot found, load
+[Thread-9] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: GET /index.html HTTP/1.1
+[Thread-11] INFO  Session  - Request method: GET
+[Thread-11] INFO  Session  - GET request was accepted
+[Thread-11] INFO  Session  - Connection closed
+[Thread-13] INFO  Session  - Input is: GET /index.html HTTP/1.1
+[Thread-13] INFO  Session  - Request method: GET
+[Thread-13] INFO  Session  - GET request was accepted
+[Thread-13] INFO  Session  - Connection closed
+[Thread-19] INFO  Session  - Input is: GET /index.html HTTP/1.1
+[Thread-19] INFO  Session  - Request method: GET
+[Thread-19] INFO  Session  - GET request was accepted
+[Thread-19] INFO  Session  - Connection closed
+[Thread-23] INFO  Session  - Input is: OPTIONS / HTTP/1.1
+[Thread-23] INFO  Session  - Request method: OPTIONS
+[Thread-23] INFO  Session  - OPTIONS request was accepted
+[Thread-23] INFO  Session  - Connection closed
+[Thread-27] INFO  Session  - Input is: OPTIONS /index.html HTTP/1.1
+[Thread-27] INFO  Session  - Request method: OPTIONS
+[Thread-27] INFO  Session  - OPTIONS request was accepted
+[Thread-27] INFO  Session  - Connection closed
+[Thread-31] INFO  Session  - Input is: OPTIONS / HTTP/1.1
+[Thread-31] INFO  Session  - Request method: OPTIONS
+[Thread-31] INFO  Session  - OPTIONS request was accepted
+[Thread-31] INFO  Session  - Connection closed
+[Thread-33] INFO  Session  - Input is: GET /gena.jpg HTTP/1.1
+[Thread-33] INFO  Session  - Request method: GET
+[Thread-33] INFO  Session  - GET request was accepted
+[Thread-33] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-1] INFO  Session  - Input is: GET /index.html HTTP/1.1
+[Thread-1] INFO  Session  - Request method: GET
+[Thread-1] INFO  Session  - GET request was accepted
+[Thread-1] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: OPTIONS / HTTP/1.1
+[Thread-7] INFO  Session  - Request method: OPTIONS
+[Thread-7] INFO  Session  - OPTIONS request was accepted
+[Thread-7] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: GET /gena.jpg HTTP/1.1
+[Thread-11] INFO  Session  - Request method: GET
+[Thread-11] INFO  Session  - GET request was accepted
+[Thread-11] INFO  Session  - Connection closed
+[Thread-15] INFO  Session  - Input is: POST /gena.jpg HTTP/1.1
+[Thread-15] INFO  Session  - Request method: POST
+[Thread-19] INFO  Session  - Input is: GET /gena.jpg HTTP/1.1
+[Thread-19] INFO  Session  - Request method: GET
+[Thread-19] INFO  Session  - GET request was accepted
+[Thread-19] INFO  Session  - Connection closed
+[Thread-23] INFO  Session  - Input is: GET /index.html HTTP/1.1
+[Thread-23] INFO  Session  - Request method: GET
+[Thread-23] INFO  Session  - GET request was accepted
+[Thread-23] INFO  Session  - Connection closed
+[Thread-27] INFO  Session  - Input is: GET /gena.jpg HTTP/1.1
+[Thread-27] INFO  Session  - Request method: GET
+[Thread-27] INFO  Session  - GET request was accepted
+[Thread-27] INFO  Session  - Connection closed
+[Thread-31] INFO  Session  - Input is: POST /zhopa.txt HTTP/1.1
+[Thread-31] INFO  Session  - Request method: POST
+[Thread-31] WARN  Session  - INTERNAL SERVER ERROR
+[Thread-31] WARN  Session  - File: /zhopa.txtnot found, load
+[Thread-31] INFO  Session  - Connection closed
+[Thread-35] INFO  Session  - Input is: POST /index.html HTTP/1.1
+[Thread-35] INFO  Session  - Request method: POST
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-1] INFO  Session  - Input is: GET /index.html HTTP/1.1
+[Thread-1] INFO  Session  - Request method: GET
+[Thread-1] INFO  Session  - GET request was accepted
+[Thread-1] INFO  Session  - Connection closed
+[Thread-3] INFO  Session  - Input is: GET /index.html HTTP/1.1
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] INFO  Session  - GET request was accepted
+[Thread-3] INFO  Session  - Connection closed
+[Thread-5] INFO  Session  - Input is: GET /gena.jpg HTTP/1.1
+[Thread-5] INFO  Session  - Request method: GET
+[Thread-5] INFO  Session  - GET request was accepted
+[Thread-5] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: POST /index.html HTTP/1.1
+[Thread-11] INFO  Session  - Request method: POST
+[Thread-11] INFO  Session  - POST request was accepted
+[Thread-11] INFO  Session  - Connection closed
+[Thread-19] INFO  Session  - Input is: POST /gena.jpg HTTP/1.1
+[Thread-19] INFO  Session  - Request method: POST
+[Thread-19] INFO  Session  - POST request was accepted
+[Thread-19] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-1] INFO  Session  - Input is: GET /index.html HTTP/1.1
+[Thread-1] INFO  Session  - Request method: GET
+[Thread-1] INFO  Session  - GET request was accepted
+[Thread-1] INFO  Session  - Connection closed
+[Thread-3] INFO  Session  - Input is: GET /index.html HTTP/1.1
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] INFO  Session  - GET request was accepted
+[Thread-3] INFO  Session  - Connection closed
+[Thread-5] INFO  Session  - Input is: GET /gena.jpg HTTP/1.1
+[Thread-5] INFO  Session  - Request method: GET
+[Thread-5] INFO  Session  - GET request was accepted
+[Thread-5] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: POST /gena.jpg HTTP/1.1
+[Thread-11] INFO  Session  - Request method: POST
+[Thread-15] INFO  Session  - Input is: POST /text.txt HTTP/1.1
+[Thread-15] INFO  Session  - Request method: POST
+[Thread-19] INFO  Session  - Input is: POST /text.txt HTTP/1.1
+[Thread-19] INFO  Session  - Request method: POST
+[Thread-23] INFO  Session  - Input is: POST /text.txt HTTP/1.1
+[Thread-23] INFO  Session  - Request method: POST
+[Thread-23] INFO  Session  - POST request was accepted
+[Thread-23] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-1] INFO  Session  - Input is: GET /index.html HTTP/1.1
+[Thread-1] INFO  Session  - Request method: GET
+[Thread-1] WARN  Session  - NOT FOUND
+[Thread-1] WARN  Session  - File: /index.html not found
+[Thread-1] INFO  Session  - Connection closed
+[Thread-3] INFO  Session  - Input is: GET /page.html HTTP/1.1
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] INFO  Session  - GET request was accepted
+[Thread-3] INFO  Session  - Connection closed
+[Thread-5] INFO  Session  - Input is: GET /text.txt HTTP/1.1
+[Thread-5] INFO  Session  - Request method: GET
+[Thread-5] INFO  Session  - GET request was accepted
+[Thread-5] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: GET /image.jpg HTTP/1.1
+[Thread-7] INFO  Session  - Request method: GET
+[Thread-7] INFO  Session  - GET request was accepted
+[Thread-7] INFO  Session  - Connection closed
+[Thread-15] INFO  Session  - Input is: OPTIONS / HTTP/1.1
+[Thread-15] INFO  Session  - Request method: OPTIONS
+[Thread-15] INFO  Session  - OPTIONS request was accepted
+[Thread-15] INFO  Session  - Connection closed
+[Thread-19] INFO  Session  - Input is: POST /image.jpg HTTP/1.1
+[Thread-19] INFO  Session  - Request method: POST
+[Thread-19] INFO  Session  - POST request was accepted
+[Thread-19] INFO  Session  - Connection closed
+[Thread-23] INFO  Session  - Input is: POST /text.txt HTTP/1.1
+[Thread-23] INFO  Session  - Request method: POST
+[Thread-23] INFO  Session  - POST request was accepted
+[Thread-23] INFO  Session  - Connection closed
+[Thread-27] INFO  Session  - Input is: POST /page.html HTTP/1.1
+[Thread-27] INFO  Session  - Request method: POST
+[Thread-27] INFO  Session  - POST request was accepted
+[Thread-27] INFO  Session  - Connection closed
